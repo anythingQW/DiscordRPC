@@ -89,4 +89,4 @@ const activity = {
 
 
 
-Made with  Focus ❤️
+Made with Anything ❤️
